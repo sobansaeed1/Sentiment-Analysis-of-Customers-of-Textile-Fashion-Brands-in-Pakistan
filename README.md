@@ -43,3 +43,8 @@ This project demonstrates the power of sentiment analysis for brand monitoring. 
 
 **Muhammad Soban**    
 Email: sobansaeed21@gmail.com  
+
+## 📌 Co-Author
+
+**Asad Meeran**    
+Email: asad.meeran25@gmail.com 
